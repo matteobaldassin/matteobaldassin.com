@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "298e32cabe22c72494de591847004ab6",
+    "revision": "06612e82a2acd66289101a9eb41ea185",
     "url": "/matteobaldassin.com/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matteobaldassin.com/static/css/2.d64471e2.chunk.css"
   },
   {
-    "revision": "435b78260f41cf64b719",
-    "url": "/matteobaldassin.com/static/css/main.db6f0745.chunk.css"
+    "revision": "55e8c843e0e40b89c8b6",
+    "url": "/matteobaldassin.com/static/css/main.1a72c315.chunk.css"
   },
   {
     "revision": "7364181f954d06f429d3",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matteobaldassin.com/static/js/2.38d70caf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "435b78260f41cf64b719",
-    "url": "/matteobaldassin.com/static/js/main.f6e224f1.chunk.js"
+    "revision": "55e8c843e0e40b89c8b6",
+    "url": "/matteobaldassin.com/static/js/main.1b63c727.chunk.js"
   },
   {
     "revision": "d4152cedfe748f1174ab",
