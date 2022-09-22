@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Ciao!",
+      "description": "👋 Sono Matteo Baldassin, e mi piace programmare, risolvere i problemi e mettermi sempre in competizione",
       "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
+        "about": "Chi sono",
+        "projects": "Progetti",
+        "skills": "Competenze",
+        "experience": "Esperienza"
       }
     },
     "projects": [
@@ -81,37 +81,18 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Netpolaris S.R.L.",
+        "title": "Full Stack Developer",
+        "years": "09.2019 - oggi",
         "mainTech": [
-          "Angular 8/9/10"
+          "Java"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Java",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "MySQL",
+          "REST API"
         ]
       }
     ]
