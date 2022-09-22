@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-frontend-dev-portfolio/static/css/main.db76a3b0.chunk.css",
-    "main.js": "/react-frontend-dev-portfolio/static/js/main.9ff1d112.chunk.js",
-    "main.js.map": "/react-frontend-dev-portfolio/static/js/main.9ff1d112.chunk.js.map",
-    "runtime-main.js": "/react-frontend-dev-portfolio/static/js/runtime-main.0af024f6.js",
-    "runtime-main.js.map": "/react-frontend-dev-portfolio/static/js/runtime-main.0af024f6.js.map",
-    "static/css/2.d64471e2.chunk.css": "/react-frontend-dev-portfolio/static/css/2.d64471e2.chunk.css",
-    "static/js/2.67049b73.chunk.js": "/react-frontend-dev-portfolio/static/js/2.67049b73.chunk.js",
-    "static/js/2.67049b73.chunk.js.map": "/react-frontend-dev-portfolio/static/js/2.67049b73.chunk.js.map",
-    "index.html": "/react-frontend-dev-portfolio/index.html",
-    "precache-manifest.ee50bc0a1fbb4aafab17a8b6801d6718.js": "/react-frontend-dev-portfolio/precache-manifest.ee50bc0a1fbb4aafab17a8b6801d6718.js",
-    "service-worker.js": "/react-frontend-dev-portfolio/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/react-frontend-dev-portfolio/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.db76a3b0.chunk.css.map": "/react-frontend-dev-portfolio/static/css/main.db76a3b0.chunk.css.map",
-    "static/js/2.67049b73.chunk.js.LICENSE.txt": "/react-frontend-dev-portfolio/static/js/2.67049b73.chunk.js.LICENSE.txt"
+    "main.css": "/matteobaldassin.com/static/css/main.db6f0745.chunk.css",
+    "main.js": "/matteobaldassin.com/static/js/main.f6e224f1.chunk.js",
+    "main.js.map": "/matteobaldassin.com/static/js/main.f6e224f1.chunk.js.map",
+    "runtime-main.js": "/matteobaldassin.com/static/js/runtime-main.3989025a.js",
+    "runtime-main.js.map": "/matteobaldassin.com/static/js/runtime-main.3989025a.js.map",
+    "static/css/2.d64471e2.chunk.css": "/matteobaldassin.com/static/css/2.d64471e2.chunk.css",
+    "static/js/2.38d70caf.chunk.js": "/matteobaldassin.com/static/js/2.38d70caf.chunk.js",
+    "static/js/2.38d70caf.chunk.js.map": "/matteobaldassin.com/static/js/2.38d70caf.chunk.js.map",
+    "index.html": "/matteobaldassin.com/index.html",
+    "precache-manifest.53d6f72680007e11c51f3d88a807fdfe.js": "/matteobaldassin.com/precache-manifest.53d6f72680007e11c51f3d88a807fdfe.js",
+    "service-worker.js": "/matteobaldassin.com/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/matteobaldassin.com/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db6f0745.chunk.css.map": "/matteobaldassin.com/static/css/main.db6f0745.chunk.css.map",
+    "static/js/2.38d70caf.chunk.js.LICENSE.txt": "/matteobaldassin.com/static/js/2.38d70caf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0af024f6.js",
+    "static/js/runtime-main.3989025a.js",
     "static/css/2.d64471e2.chunk.css",
-    "static/js/2.67049b73.chunk.js",
-    "static/css/main.db76a3b0.chunk.css",
-    "static/js/main.9ff1d112.chunk.js"
+    "static/js/2.38d70caf.chunk.js",
+    "static/css/main.db6f0745.chunk.css",
+    "static/js/main.f6e224f1.chunk.js"
   ]
 }
