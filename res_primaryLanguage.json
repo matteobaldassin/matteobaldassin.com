@@ -21,12 +21,16 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-vue-original",
+            "class": "devicon-vuejs-plain",
             "name": "Vue"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       },
